@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* CapstoneApplication
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.thesis.project.CapstoneApplication
